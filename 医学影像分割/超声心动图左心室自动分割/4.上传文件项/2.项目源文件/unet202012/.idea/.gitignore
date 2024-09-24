@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\WORK\TeachCase_new\3.超声心动图左心室自动分割\超声心动图左心室自动分割上传版本\超声心动图左心室自动分割工程代码\4.上传文件项\2.项目源文件\unet202012\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
